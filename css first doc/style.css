@@ -1,0 +1,11 @@
+body{
+    front-family: "Indie flower", cursive;
+    }
+
+    h1, h2, h3, h5, h6{
+        front-family: "Josefin sans", sans-serif;
+        color: yellow;
+    }
+    .jaune{
+        color:yellow;
+    }
